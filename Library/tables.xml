@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tables>
+    <update_time>1464838803</update_time>
+    <applications>
+        <application>
+            <name>SETI@home</name>
+        </application>
+        <application>
+            <name>SETI@home Enhanced</name>
+        </application>
+        <application>
+            <name>Astropulse</name>
+        </application>
+        <application>
+            <name>Astropulse v5</name>
+        </application>
+        <application>
+            <name>Astropulse v505</name>
+        </application>
+        <application>
+            <name>SETI@home v7</name>
+        </application>
+        <application>
+            <name>AstroPulse v6</name>
+        </application>
+        <application>
+            <name>AstroPulse v7</name>
+        </application>
+        <application>
+            <name>SETI@home v8</name>
+        </application>
+    </applications>
+    <badges>
+       <badge>
+           <id>6</id>
+           <name>user_pct_2</name>
+           <title>Top 25% in average credit</title>
+           <image_url>img/pct_25.png</image_url>
+       </badge>
+       <badge>
+           <id>5</id>
+           <name>user_pct_1</name>
+           <title>Top 5% in average credit</title>
+           <image_url>img/pct_5.png</image_url>
+       </badge>
+       <badge>
+           <id>4</id>
+           <name>user_pct_0</name>
+           <title>Top 1% in average credit</title>
+           <image_url>img/pct_1.png</image_url>
+       </badge>
+       <badge>
+           <id>7</id>
+           <name>team_pct_0</name>
+           <title>Top 1% in average credit</title>
+           <image_url>img/pct_1.png</image_url>
+       </badge>
+       <badge>
+           <id>8</id>
+           <name>team_pct_1</name>
+           <title>Top 5% in average credit</title>
+           <image_url>img/pct_5.png</image_url>
+       </badge>
+       <badge>
+           <id>9</id>
+           <name>team_pct_2</name>
+           <title>Top 25% in average credit</title>
+           <image_url>img/pct_25.png</image_url>
+       </badge>
+    </badges>
+</tables>
